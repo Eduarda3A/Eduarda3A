@@ -12,3 +12,4 @@ Meu nome é Eduarda Almeida
 0000110645408Xsp@al.educacao.sp.gov.br
 
 <img src="https://media1.tenor.com/m/GjU5fvBhPtYAAAAC/harry-styles-heart.gif" alt="Harry Styles Heart GIF - Harry Styles Heart Kiss GIFs"/>!
+![image](https://github.com/user-attachments/assets/49d77914-a0fc-463b-8ec1-4866fe7ff66a)
