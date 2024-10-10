@@ -15,7 +15,8 @@ Meu nome é Eduarda Almeida
 ![image](https://github.com/user-attachments/assets/49d77914-a0fc-463b-8ec1-4866fe7ff66a)
 ### Criando um novo menu 2024
 
-          <body>
+          <body> Hambuguer
+
   <input id="menu-hamburguer" type="checkbox" />
 
   <label for="menu-hamburguer">
